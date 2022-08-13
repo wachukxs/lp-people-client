@@ -1,0 +1,16 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.upload-form {
+    display: flex;
+    flex-direction: column;
+
+    margin: 0 auto 40px;
+    width: 215px;
+    row-gap: 15px;
+}
+
+form button[type="submit"] {
+    margin-top: 10px;
+}
